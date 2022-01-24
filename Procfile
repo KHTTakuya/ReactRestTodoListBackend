@@ -1,2 +1,2 @@
-web: gunicorn djangoresttodolist.wsgi --log-file -
+web: gunicorn djangoresttodolist.wsgi
 
