@@ -1,2 +1,2 @@
-web: gunicorn djangoresttodolist.wsgi
+web: gunicorn resttodolist.wsgi
 
