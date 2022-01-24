@@ -1,0 +1,21 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+-e __pycache__\\ndb.sqlite3\\n.DS_Store\\nlocal_settings.py
+
+# Thumbnails
+._*
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+blog/__pycache__/
+*.py[cod]
+.idea
+/backend/local_settings.py
+
+venv/
+
+db.sqlite3
