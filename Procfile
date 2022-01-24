@@ -1,2 +1,2 @@
-web: gunicorn resttodolist.wsgi
+web: gunicorn backend.wsgi
 
